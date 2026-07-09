@@ -1,0 +1,5 @@
+s = input()
+s = s.strip()
+s = s.title()
+print(s)
+print(s[0])
