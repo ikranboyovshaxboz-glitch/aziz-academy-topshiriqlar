@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — IKROMBOYEV SHAXBOZ
+# 🎓 Aziz Academy — Ikromboyev Shaxboz
 
 **Kurs:** Dasturlash / IT
 
@@ -6,8 +6,8 @@
 
 `░░░░░░░░░░░░░░░░░░░░` **1%**  (2/179 mavzu)
 
-- ⭐ Jami ball: **23187**
-- 📤 GitHubga yuborilgan topshiriqlar: **145**
+- ⭐ Jami ball: **23302**
+- 📤 GitHubga yuborilgan topshiriqlar: **146**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-16 14:16</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-21 13:06</sub>
