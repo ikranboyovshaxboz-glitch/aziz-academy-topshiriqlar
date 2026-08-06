@@ -4,28 +4,28 @@
 
 ## 📊 Umumiy progress
 
-`░░░░░░░░░░░░░░░░░░░░` **1%**  (2/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **4%**  (8/179 mavzu)
 
-- ⭐ Jami ball: **25901**
-- 📤 GitHubga yuborilgan topshiriqlar: **159**
+- ⭐ Jami ball: **29898**
+- 📤 GitHubga yuborilgan topshiriqlar: **160**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **O'rnatish va muhit — Python, interpreter, IDE sozlash**
+**MODUL 1 — Asoslar** → **input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish**
 
-➡️ Keyingi mavzu: *Birinchi dastur ⭐ — print() va kommentlar*
+➡️ Keyingi mavzu: *Arifmetik operatorlar — + - * / // % ** va prioritet*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
 - ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
-- ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash  ← yetgan joyingiz
-- ⬜ Birinchi dastur ⭐ — print() va kommentlar
-- ⬜ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
-- ⬜ Sonlar: int va float — butun va kasr sonlar
-- ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
-- ⬜ Bool va mantiq — True/False, mantiqiy ifodalar
-- ⬜ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
+- ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
+- ✅ Birinchi dastur ⭐ — print() va kommentlar
+- ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
+- ✅ Sonlar: int va float — butun va kasr sonlar
+- ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()
+- ✅ Bool va mantiq — True/False, mantiqiy ifodalar
+- ✅ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish  ← yetgan joyingiz
 - ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
 - ⬜ Mantiqiy operatorlar — and, or, not
 - ⬜ Solishtirish operatorlari — == != > < >= <=
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `█░░░░░░░░░` 13% | 2/15 |
+| 1 | 🔸 Asoslar | `█████░░░░░` 53% | 8/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-30 13:45</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-06 13:58</sub>
