@@ -1,3 +1,2 @@
-son = float(input())
-natija = son * 2
-print(natija)
+a = float(input())
+print(a + a)
