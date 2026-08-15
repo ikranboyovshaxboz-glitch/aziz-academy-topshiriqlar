@@ -1,2 +1,1 @@
-n = int(input())
-print(bool(n))
+print(bool(int(input())))
