@@ -1,4 +1,4 @@
-som = int(input())
-narx = float(input())
-jami = som * narx
-print(f"Jami: " + str(jami) + " som")
+a = int(input())
+b = float(input())
+jami = a * b 
+print(f"Jami: {jami} som")
