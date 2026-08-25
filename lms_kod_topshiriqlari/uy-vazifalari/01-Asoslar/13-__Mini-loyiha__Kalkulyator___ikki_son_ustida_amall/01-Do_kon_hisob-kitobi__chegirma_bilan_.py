@@ -1,7 +1,8 @@
 a = int(input())
 b = int(input())
-c = int(input())
-j = a * b 
+k = int(input())
+j =  a * b 
+c = j * k // 100
 print(j)
-print(j * c // 100)
-print(j - j * c // 100)
+print(c)
+print(j - c)
