@@ -1,6 +1,10 @@
 a = int(input())
 b = int(input())
 c = int(input())
-print(a *b)
-print(a * b * c // 100)
-print(a * b - a * b * c // 100)
+print()
+yalpi = a * b
+soliq = (yalpi * c) // 100
+sof = yalpi - soliq 
+print(yalpi)
+print(soliq)
+print(sof)
