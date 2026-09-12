@@ -1,3 +1,3 @@
-uzunlik = int(input())
-kenglik = int(input())
-print(2 * (uzunlik + kenglik))
+a = int(input())
+b = int(input())
+print(2 * (a + b))
