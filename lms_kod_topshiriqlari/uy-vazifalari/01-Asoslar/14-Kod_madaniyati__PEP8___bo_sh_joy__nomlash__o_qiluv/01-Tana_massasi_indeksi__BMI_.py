@@ -1,3 +1,3 @@
-vazin = float(input())
-boy = float(input())
-print(vazin / (boy * boy))
+a = float(input())
+b = float(input())
+print(a / (b * b))
