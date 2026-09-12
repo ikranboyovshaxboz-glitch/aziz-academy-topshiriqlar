@@ -1,4 +1,4 @@
-narx_1 = int(input())
-narx_2 = int(input())
-narx_3 = int(input())
-print(narx_1 + narx_2 + narx_3)
+a = int(input())
+b = int(input())
+c = int(input())
+print(a + b + c)
